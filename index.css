@@ -3,4 +3,11 @@ margin-right: 20%;
 background-color:azure ;}
 
 
-chair, van {width: 25%;}
+#chair {width: 49%;
+ 
+}
+ #van {width: 49%;
+height: 60%;
+
+
+}
