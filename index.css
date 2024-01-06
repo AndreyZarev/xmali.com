@@ -1,4 +1,8 @@
-body {margin-left: 20%;
+.nav-mine {
+    padding-left: 30%;
+}
+
+main {margin-left: 20%;
 margin-right: 20%;
 background-color:azure ;}
 
@@ -10,4 +14,12 @@ background-color:azure ;}
 height: 60%;
 
 
+}
+/* .hamal{ margin-left: 10%;
+    font-size: 222%;
+} */
+.home, .about, .contacts, .service {
+    font-size: 167%;
+    margin-left: 15%;
+    display: inline-block;
 }
