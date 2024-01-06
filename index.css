@@ -24,9 +24,13 @@ height: 60%;
     font-size: 150%;
     margin-left: 20%;
     white-space: nowrap;
+    font-weight: 600;
 
 }
 
 
 #aboutUs,  #whatWeDo, #welcome, #contacts {padding-top: 5%;
 padding-bottom: 5%;}
+
+#copy {margin-left:45%;
+margin-top: 1%;}
