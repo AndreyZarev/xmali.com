@@ -6,7 +6,8 @@ main {margin-left: 15%;
 margin-right: 15%;
 background-color:azure ;
 padding-left: 5%;
-padding-right: 5%;}
+padding-right: 5%;
+padding-bottom: 5%;}
 
 
 #chair {width: 49%;
@@ -36,4 +37,9 @@ padding-bottom: 5%;}
 margin-top: 1%;}
 
 
-#contacts {margin-left: 35%;}
+#name, #number, #textarea {width: 35%;
+padding-bottom: 2%;}
+
+#textarea{margin-left: 0.5%;}
+
+#numbertop{float: right;}
